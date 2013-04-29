@@ -2,7 +2,7 @@
   "name": "translateGrowl",
   "description": "Shows some of the features of the Context Menus API",
   "version": "0.6",
-  "permissions": ["contextMenus","notifications"],
+  "permissions": ["contextMenus","notifications", "http://muuk.org/"],
   "background": {
     "scripts": ["js/libs/parse.min.js","js/libs/jquery-1.8.3.min.js","js/sample.js"]
   },

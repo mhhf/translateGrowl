@@ -19,7 +19,7 @@ function process_request(data, sender, callback) {
 }
 
 // Called when content script sends a request to background page.
-chrome.extension.onRequest.addListener(process_request);
+chrome.extension.onMessage.addListener(process_request);
 
 
 function on_browser_action(tab) {

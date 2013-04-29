@@ -1,14 +1,8 @@
 # INTRODUCTION
 
-Chrome-extension-dev-template is a boilerplate/template/bootstrap of chrome extension development.
+TranslateGrowl is the openSource Chrome Browser plugin for VocTrainer.
+This Plugin enables the translation of words inside a page via a Growl message.
+Its sync the unknown word to a server and makes it aviable for learning via flashcards.
 
-# USAGE
+WIP Project, currently used by me
 
-1. Download codes: `git clone https://github.com/imwilsonxu/chrome-extension-dev-template.git`
-2. Open "chrome://chrome/extensions/".
-3. Check "Developer mode".
-4. Install via "Load unpacked extension".
-
-# TODO
-
-# ACKNOWLEDGEMENTS
